@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/drawable/ic_chat.xml" value="0.2203125" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_daftar.xml" value="0.33" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_detail_wisata.xml" value="0.33" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_masuk.xml" value="0.16979166666666667" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_per_kategori.xml" value="0.33" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_registrasi.xml" value="0.178125" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/fragment_akun.xml" value="0.33" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/fragment_bookmark.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/items_row_kategori.xml" value="0.75" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/items_row_slider.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/layout/items_row_wisata.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Kotlin/1 - Basic/18-19-25-26-Juni-2022/Kalian/app/src/main/res/menu/bottom_nav_menu.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
